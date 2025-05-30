@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
+  <diagram name="Страница — 1" id="7V3F3CB_qTzPzc7okg0c">
+    <mxGraphModel dx="1303" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1827" pageHeight="2169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OYPTl5c_5mihBlCeQITy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-1" target="OYPTl5c_5mihBlCeQITy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-1" target="OYPTl5c_5mihBlCeQITy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-1" value="Врач" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-2" target="OYPTl5c_5mihBlCeQITy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-2" value="Сохранение результатов в Карточке Пациента" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-3" target="OYPTl5c_5mihBlCeQITy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-3" value="Лаборатория" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-4" target="OYPTl5c_5mihBlCeQITy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-4" value="Размещение заказа на анализ биоматериала" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-5" target="OYPTl5c_5mihBlCeQITy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-5" value="Формирование результатов анализов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-5" target="OYPTl5c_5mihBlCeQITy-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="670" />
+              <mxPoint x="205" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-11" value="Данные:&lt;div&gt;- ФИО&lt;/div&gt;&lt;div&gt;- Результаты анализов&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="145" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-14" value="Данные:&lt;div&gt;- ФИО&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- Список анализов&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OYPTl5c_5mihBlCeQITy-4" target="OYPTl5c_5mihBlCeQITy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-16" value="Данные:&lt;div&gt;- ФИО&lt;/div&gt;&lt;div&gt;- Результаты анализов&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="690" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-18" value="Процесс: Взаимодействие с лабораторией" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="145" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-20" value="Работа с данными:&lt;div&gt;&lt;div&gt;Тег: PHI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Доступ RBAC: Врачи&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Способ защиты: Детерминированное маскирование&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="265" y="110" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-22" value="Работа с данными:&lt;div&gt;&lt;div&gt;Тег: Clinical&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Доступ RBAC: Врачи, Лаборатория (по API)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Способ защиты: Детерминированное маскирование&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OYPTl5c_5mihBlCeQITy-24" value="Работа с данными:&lt;div&gt;&lt;div&gt;Тег: Clinical&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Доступ RBAC: Врачи, Лаборатория (по API)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Способ защиты: Детерминированное маскирование&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="810" y="290" width="140" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
